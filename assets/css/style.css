@@ -1,0 +1,23 @@
+.container {
+    background-image: url(/assets/img/Headerss image.jpg);
+    position: absolute;
+    text-align: center;
+    width: 1000;
+    height: 300;
+}
+.menu div {
+    width: 35px;
+    height: 5px;
+    background-color: #333;
+    margin: 6px 0;
+    display: flex-end;
+}
+.main {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.buttons {
+    border-radius: 12px;
+    display: flex;
+    padding: 20px;
+    margin: 4px 2px;
+}
